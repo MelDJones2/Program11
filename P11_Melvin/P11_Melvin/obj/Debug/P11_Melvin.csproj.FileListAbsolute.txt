@@ -1,0 +1,10 @@
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\bin\Debug\P11_Melvin.exe.config
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\bin\Debug\P11_Melvin.exe
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\bin\Debug\P11_Melvin.pdb
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\obj\Debug\P11_Melvin.csproj.AssemblyReference.cache
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\obj\Debug\P11_Melvin.Form1.resources
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\obj\Debug\P11_Melvin.Properties.Resources.resources
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\obj\Debug\P11_Melvin.csproj.GenerateResource.cache
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\obj\Debug\P11_Melvin.csproj.CoreCompileInputs.cache
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\obj\Debug\P11_Melvin.exe
+C:\Users\Mel\source\repos\P11_Melvin\P11_Melvin\obj\Debug\P11_Melvin.pdb
